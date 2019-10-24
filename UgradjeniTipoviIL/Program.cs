@@ -6,7 +6,6 @@ namespace Vsite.CSharp.TipoviOperatori
     {
         static void Main(string[] args)
         {
-            // TODO:010 Prevesti program te generirani kod pogledati ILDASM-om (IL disassemblerom).
             // pogleda li se generirani međukod (IL), npr. pomoću ILDasm-a
             // vidi se da svi tipovi osim decimal imaju direktne
             // operacije u međujeziku
