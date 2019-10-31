@@ -39,9 +39,7 @@ namespace Vsite.CSharp.TipoviOperatori
             Console.ReadKey();
         }
 
-        // TODO:101 Pogledati donje pretvorbe i razjasniti razliku.
 
-        // ovo je česti način pisanja kada želimo napraviti "sigurnu" pretvorbu:
         static void Pretvorba1()
         {
             Osoba janko = new Student();
