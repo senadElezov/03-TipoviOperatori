@@ -12,17 +12,12 @@ namespace Vsite.CSharp.TipoviOperatori
     {
         static void Main(string[] args)
         {
-            // TODO:060 Dodati varijablu "i0" tipa var i inicijalizirati ju nekim cijelim brojem.
+            var i0 = 12;
+            var d0 = 3.14;
+            //i0 = d0;
 
-            // TODO:061 Dodati varijablu "d0" tipa var i inicijalizirati ju nekim decimalnim brojem.
-
-            // TODO:062 Dodati naredbu: i0 = d0; te provjeriti prihvaća li prevoditelj tu naredbu.
-
-
-            // TODO:063 Dodati varijablu "i1" tipa int i inicijalizirati ju istim cijelim brojem kao varijablu i0.
-
-            // TODO:064 Dodati varijablu "d1" tipa double i inicijalizirati ju istim decimalnim brojem kao varijablu d0.
-
+            int i1 = 12;
+            double d1 = 3.14;
             // TODO:065 Prevesti kod i usporediti kod naredbi za inicijalizacije varijabli i0 i d0, odnosno i1 i d1 pomoću ILDasm-a.
 
             // TODO:066 Deklarirati varijablu "s" tipa var i inicijalizirati ju pozivom konstruktora strukture S definirane gore.
